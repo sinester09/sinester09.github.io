@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luc Thien Phong's Gallery</title>
+    <link rel="icon" href="https://cdn.crfnetwork.cyou/images/crf/crf-logo-clean.png" type="image/x-icon">
+    <meta property="og:title" content="Luc Thien Phong's Gallery">
+    <meta property="og:description" content="My certification Showcase">
+    <meta property="og:image" content="https://cdn.crfnetwork.cyou/images/crf/crf-banner.png">
+    <meta property="og:url" content="https://ltp.crfnetwork.cyou/gallery/">
+    <meta property="og:type" content="website">
+    <link rel="stylesheet" href="./dist/style.css">
+    <link rel="stylesheet" href="./dist/img-previewer.css">
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</head>
+
+<body>
+    <div id="app">
+        <h2 class="title">{{infos.title}}</h2>
+        <p class="description">{{infos.description}}</p>
+        <p class="note">{{infos.note}}</p>
+        <p class="album-count">Total Images: <span> 0 </span></p>
+
+        <div id="gallery">
+            <section v-for="(items, title) in albums" v-bind:name="title">
+                <details>
+                    <summary class="album-name">
+                        <i>{{title}}</i>
+                        <span>({{items.length}})</span>
+                    </summary>
+                    <div class="album-content">
+                        <div class="album-photo" v-for="item in items">
+                            <!-- <a v-bind:href="item.src" target="_blank"> -->
+                            <img class="photo" v-bind:src="item.src" loading="lazy" alt="certification">
+                            <!-- </a> -->
+                        </div>
+                    </div>
+                </details>
+            </section>
+        </div>
+
+        <button class="scroll-top-btn" @click="scrollToTop">
+            Scroll to Top
+        </button>
+    </div>
+</body>
+
+<script type="module">
+    import json from './data/config.json' assert { type: 'json' };
+    import info from './data/info.json' assert { type: 'json' };
+    const app = new Vue({
+        el: '#app',
+        data: {
+            infos: info,
+            albums: json,
+        },
+        computed: {
+            totalImages() {
+                let count = 0;
+                for (let title in this.albums) {
+                    count += this.albums[title].length;
+                }
+                return count;
+            }
+        },
+        methods: {
+            scrollToTop() {
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth'
+                });
+            },
+            initImgPreviewer() {
+                const imgPreviewer = new ImgPreviewer('#app', {
+                    scrollbar: true
+                });
+            },
+            albumsCountAnimation() {
+                const albumCount = document.querySelector('.album-count span');
+                const totalImages = this.totalImages;
+                let count = 0;
+                let waitTime = 100;
+                albumCount.textContent = count;
+                const interval = setInterval(() => {
+                    count++;
+                    albumCount.textContent = count;
+                    if (count === totalImages) {
+                        clearInterval(interval);
+                    }
+                    if (waitTime > 2) {
+                        waitTime -= 2;
+                    }
+                }, waitTime);
+            }
+        },
+        mounted() {
+            document.title = info.name;
+            this.albumsCountAnimation();
+            this.initImgPreviewer();
+        }
+    });
+</script>
+<script src="./dist/img-previewer.js"></script>
+
+</html>

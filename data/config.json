@@ -1,0 +1,1018 @@
+{
+  "IBM": [
+    {
+      "width": 5280,
+      "src": "./photos/IBM/IBM-Penetration-Testing-Incident-Response-and-Forensics.png",
+      "height": 4080
+    },
+    {
+      "width": 5280,
+      "src": "./photos/IBM/IBM-Introduction-to-Cybersecurity-Tools-Cyber-Attacks.png",
+      "height": 4080
+    },
+    {
+      "width": 5280,
+      "src": "./photos/IBM/IBM-Cybersecurity-Breach-Case-Studies.png",
+      "height": 4080
+    }
+  ],
+  "CyberKid": [
+    {
+      "width": 1280,
+      "src": "./photos/CyberKid/CyberSchool-letter.jpg",
+      "height": 960
+    },
+    {
+      "width": 1269,
+      "src": "./photos/CyberKid/CyberSchool-Q1-2023.jpg",
+      "height": 952
+    }
+  ],
+  "Moto-Ecomood-Boozter": [
+    {
+      "width": 960,
+      "src": "./photos/Moto-Ecomood-Boozter/382054824_9988062157901696_2842701513048725543_n.jpg",
+      "height": 720
+    },
+    {
+      "width": 960,
+      "src": "./photos/Moto-Ecomood-Boozter/377734850_7569895509703674_5417755374436920788_n.jpg",
+      "height": 720
+    },
+    {
+      "width": 960,
+      "src": "./photos/Moto-Ecomood-Boozter/377586619_6001436206623493_4295400983935493777_n.jpg",
+      "height": 720
+    }
+  ],
+  "HubSpot": [
+    {
+      "width": 3301,
+      "src": "./photos/HubSpot/Hubspot-Grow-driven-design.png",
+      "height": 2551
+    },
+    {
+      "width": 3301,
+      "src": "./photos/HubSpot/Hubspot-frictionless-sales.png",
+      "height": 2551
+    }
+  ],
+  "Durham University": [
+    {
+      "width": 1654,
+      "src": "./photos/Durham University/Durham-endangered-archaeology-remote-sensing-french_2.png",
+      "height": 2339
+    },
+    {
+      "width": 1654,
+      "src": "./photos/Durham University/Durham-endangered-archaeology-remote-sensing-french_1.png",
+      "height": 2339
+    }
+  ],
+  "Great Learning": [
+    {
+      "width": 3509,
+      "src": "./photos/Great Learning/greatlearn-anaconda-python.png",
+      "height": 2488
+    },
+    {
+      "width": 3368,
+      "src": "./photos/Great Learning/greatlearn-front-end-development-css.png",
+      "height": 2324
+    },
+    {
+      "width": 3368,
+      "src": "./photos/Great Learning/greatlearn-programing-basic.jpg",
+      "height": 2324
+    },
+    {
+      "width": 3368,
+      "src": "./photos/Great Learning/greatlearn-introdution-to-iot.jpg",
+      "height": 2324
+    },
+    {
+      "width": 3368,
+      "src": "./photos/Great Learning/greatlearn-vuca-leadership.jpg",
+      "height": 2324
+    }
+  ],
+  "NICxGoogle": [
+    {
+      "width": 2200,
+      "src": "./photos/NICxGoogle/NICxGoogle-Process-Data-from-Dirty to-Clean.png",
+      "height": 1700
+    },
+    {
+      "width": 2200,
+      "src": "./photos/NICxGoogle/NICxGoogle-Prepare-Data-for-Exploration.png",
+      "height": 1700
+    },
+    {
+      "width": 2200,
+      "src": "./photos/NICxGoogle/NICxGoogle-Foundations-Data-Data-Everywhere.png",
+      "height": 1700
+    },
+    {
+      "width": 2200,
+      "src": "./photos/NICxGoogle/NICxGoogle-Ask-Questions-to-Make-Data-Driven-Decisions.png",
+      "height": 1700
+    }
+  ],
+  "SchoolRank FPT": [
+    {
+      "width": 1205,
+      "src": "./photos/SchoolRank FPT/schoolrank.png",
+      "height": 852
+    }
+  ],
+  "WHO": [
+    {
+      "width": 1798,
+      "src": "./photos/WHO/WHO-Introduction-to-Marburg-Virus-Disease.png",
+      "height": 1303
+    },
+    {
+      "width": 1798,
+      "src": "./photos/WHO/WHO-Health-Emergency-and-Disaster-Risk-Management-for-Resilient-Cities.png",
+      "height": 1304
+    },
+    {
+      "width": 1192,
+      "src": "./photos/WHO/WHO-Pandemic-Influenza-Vaccines-National-Deployment-and-Vaccination-Plans.png",
+      "height": 824
+    },
+    {
+      "width": 1798,
+      "src": "./photos/WHO/WHO-SocialNet-Social-and-behavioural-insights-COVID-19-data-collection-tool-for-Africa.png",
+      "height": 1303
+    },
+    {
+      "width": 1798,
+      "src": "./photos/WHO/WHO-Infection-Prevention-and-Control-in-Maternal-and-Neonatal-Care.png",
+      "height": 1304
+    },
+    {
+      "width": 1070,
+      "src": "./photos/WHO/ndvp-en_open_badge.png",
+      "height": 916
+    },
+    {
+      "width": 1798,
+      "src": "./photos/WHO/WHO-Infection-Prevention-and-Control-IPC-for-COVID-19-Virus.png",
+      "height": 1304
+    }
+  ],
+  "Coursera": [
+    {
+      "width": 1342,
+      "src": "./photos/Coursera/Coursera-Cybersecurity-Capstone-Breach-Response-Case-Studies.png",
+      "height": 1037
+    },
+    {
+      "width": 2200,
+      "src": "./photos/Coursera/Coursera-Process-Data-from-Dirty to-Clean.png",
+      "height": 1700
+    },
+    {
+      "width": 1342,
+      "src": "./photos/Coursera/Coursera-Introduction-to-Cybersecurity-Tools-Cyber-Attacks.png",
+      "height": 1037
+    },
+    {
+      "width": 2200,
+      "src": "./photos/Coursera/Coursera-Foundations-Data-Data-Everywhere.png",
+      "height": 1700
+    },
+    {
+      "width": 1342,
+      "src": "./photos/Coursera/Coursera-Penetration-Testing-Incident-Response-and-Forensics.png",
+      "height": 1037
+    },
+    {
+      "width": 2200,
+      "src": "./photos/Coursera/Coursera-Technical-Support-Fundamentals.png",
+      "height": 1700
+    }
+  ],
+  "ICANTECH": [
+    {
+      "width": 989,
+      "src": "./photos/ICANTECH/ICT-t8-2023.jpg",
+      "height": 1280
+    }
+  ],
+  "Viblo Learning": [
+    {
+      "width": 1500,
+      "src": "./photos/Viblo Learning/Viblo-Python-Essentials.jpg",
+      "height": 1032
+    }
+  ],
+  "Code Org": [
+    {
+      "width": 1754,
+      "src": "./photos/Code Org/codeorg-Minecraft-Hero-Journey.jpg",
+      "height": 1235
+    },
+    {
+      "width": 1754,
+      "src": "./photos/Code Org/codeorg-the-hour-of-code.jpg",
+      "height": 1235
+    },
+    {
+      "width": 1754,
+      "src": "./photos/Code Org/codeorg-minecraft-hour-of-code.jpg",
+      "height": 1235
+    },
+    {
+      "width": 1754,
+      "src": "./photos/Code Org/codeorg-ai-for-oceans.jpg",
+      "height": 1235
+    }
+  ],
+  "Canva": [
+    {
+      "width": 1200,
+      "src": "./photos/Canva/Huy hi\u1ec7u c\u1ed9t m\u1ed1c 10 thi\u1ebft k\u1ebf tr\u00ean Canva.png",
+      "height": 848
+    }
+  ],
+  "Programming Hub": [
+    {
+      "width": 900,
+      "src": "./photos/Programming Hub/prghub-Java.jpg",
+      "height": 636
+    },
+    {
+      "width": 900,
+      "src": "./photos/Programming Hub/prghub-SEO.jpg",
+      "height": 636
+    },
+    {
+      "width": 900,
+      "src": "./photos/Programming Hub/prghub-DevOps.jpg",
+      "height": 636
+    },
+    {
+      "width": 900,
+      "src": "./photos/Programming Hub/prghub-Linux.jpg",
+      "height": 636
+    },
+    {
+      "width": 900,
+      "src": "./photos/Programming Hub/prghub-WordPress-Development.jpg",
+      "height": 636
+    },
+    {
+      "width": 900,
+      "src": "./photos/Programming Hub/prghub-Git.jpg",
+      "height": 636
+    },
+    {
+      "width": 900,
+      "src": "./photos/Programming Hub/prghub-Python-Advanced.jpg",
+      "height": 636
+    },
+    {
+      "width": 900,
+      "src": "./photos/Programming Hub/prghub-Ethical-Hacking.jpg",
+      "height": 636
+    },
+    {
+      "width": 900,
+      "src": "./photos/Programming Hub/prghub-Python.jpg",
+      "height": 636
+    },
+    {
+      "width": 900,
+      "src": "./photos/Programming Hub/prghub-Cyber-Security.jpg",
+      "height": 636
+    }
+  ],
+  "University College London": [
+    {
+      "width": 1654,
+      "src": "./photos/University College London/UCL-equity-informal-stem-learning-using-the-equity-compass_1.png",
+      "height": 2339
+    },
+    {
+      "width": 1654,
+      "src": "./photos/University College London/UCL-equity-informal-stem-learning-using-the-equity-compass_2.png",
+      "height": 2339
+    }
+  ],
+  "Cybrary": [
+    {
+      "width": 1683,
+      "src": "./photos/Cybrary/cybrary-cybrary-orientation.png",
+      "height": 1190
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Cybrary/cybrary-introduction-to-it-and-cybersecurity.png",
+      "height": 1190
+    },
+    {
+      "width": 1123,
+      "src": "./photos/Cybrary/cybrary-cert-5-power-ups-for-your-insider-threat-program.png",
+      "height": 794
+    },
+    {
+      "width": 2339,
+      "src": "./photos/Cybrary/cybrary-always-prepared-the-keys-to-building-a-skilled-cybersecurity-team.png",
+      "height": 1654
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Cybrary/cybrary-check-point-jump-start-maestro.png",
+      "height": 1190
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Cybrary/cybrary-welcome-to-cybrary.png",
+      "height": 1190
+    },
+    {
+      "width": 2339,
+      "src": "./photos/Cybrary/cybrary-fortinet-fortigate-cookbook.png",
+      "height": 1654
+    },
+    {
+      "width": 1123,
+      "src": "./photos/Cybrary/cybrary-cert-cloudtamer-io-cloud-governance-principles.png",
+      "height": 794
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Cybrary/cybrary-developing-teams-to-meet-modern-security-challenges.png",
+      "height": 1190
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Cybrary/cybrary-handling-bitlocker-and-filevault-2-evimetry-and-mount-image-pro.png",
+      "height": 1190
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Cybrary/cybrary-evimetry-interview-with-dr-bradley-schatz.png",
+      "height": 1190
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Cybrary/cybrary-advanced-evimetry-forensic-acquisition-allocated-non-linear-partial-and-live-images.png",
+      "height": 1190
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Cybrary/cybrary-enhancing-your-teams-certification-preparation-process.png",
+      "height": 1190
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Cybrary/cybrary-identifying-web-attacks-through-logs.png",
+      "height": 1190
+    },
+    {
+      "width": 2339,
+      "src": "./photos/Cybrary/cybrary-mitre-attack-adversary-emulation.png",
+      "height": 1654
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Cybrary/cybrary-the-evimetry-filesystem-bridge-making-your-aff4-forensic-images-available.png",
+      "height": 1190
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Cybrary/cybrary-basic-evimetry-deadboot-forensic-acquisition-wired-and-local.png",
+      "height": 1190
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Cybrary/cybrary-optimize-onboarding-driving-new-hire-success.png",
+      "height": 1190
+    },
+    {
+      "width": 2339,
+      "src": "./photos/Cybrary/cybrary-evidence-handling-do-it-the-right-way.png",
+      "height": 1654
+    }
+  ],
+  "SimpliLearn": [
+    {
+      "width": 3521,
+      "src": "./photos/SimpliLearn/SimpliLearn-Introduction-to-Cyber-Security.png",
+      "height": 2488
+    },
+    {
+      "width": 3521,
+      "src": "./photos/SimpliLearn/SimpliLearn-Data-Science-with-R-Programming.png",
+      "height": 2488
+    }
+  ],
+  "GCF Learn": [
+    {
+      "width": 2552,
+      "src": "./photos/GCF Learn/GCFLearn-Internet-Safety.png",
+      "height": 1973
+    }
+  ],
+  "BitDegree": [
+    {
+      "width": 2339,
+      "src": "./photos/BitDegree/bitdegree-Introducing-Coding-for-Beginners-an-HTML-and-CSS-Online-Course-1.jpg",
+      "height": 1653
+    }
+  ],
+  "Cisco": [
+    {
+      "width": 2339,
+      "src": "./photos/Cisco/Cisco-CCNAv7-Instructor.png",
+      "height": 1654
+    },
+    {
+      "width": 1654,
+      "src": "./photos/Cisco/Cisco-CCNAv7-Letter.png",
+      "height": 2339
+    },
+    {
+      "width": 2339,
+      "src": "./photos/Cisco/Cisco-CCNAv7-Cisco.png",
+      "height": 1654
+    }
+  ],
+  "Microsoft": [
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-SC-200-Mitigate-threats-using-Microsoft-Defender-for-Endpoint.png",
+      "height": 1189
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-Microsoft-Security-Compliance-and-Identity-Fundamentals-Describe-the-capabilities-of-Microsoft-security-solutions.png",
+      "height": 1189
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-Safeguard-multi-cloud-apps-and-resources-with-cloud-security-solutions-from-Microsoft.png",
+      "height": 1189
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-Microsoft-Security-Compliance-and-Identity-Fundamentals-Describe-the-concepts-of-security-compliance-and-identity.png",
+      "height": 1189
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-Manage-insider-risk-in-Microsoft-365.png",
+      "height": 1189
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-MS-900-Microsoft-365-Fundamentals-Demonstrate-fundamental-knowledge-of-Microsoft-365-security-and-compliance-capabilities.png",
+      "height": 1189
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-Manage-content-search-and-investigations-in-Microsoft-365.png",
+      "height": 1189
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-AZ-900.png",
+      "height": 1189
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-Azure-Fundamentals-Describe-Azure-architecture-and-services.png",
+      "height": 1189
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-Defend-against-threats-with-Microsoft-365.png",
+      "height": 1189
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-MS-500-part-4-Manage-Governance-and-Compliance-Features-in-Microsoft-365.png",
+      "height": 1189
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-Secure-the-Microsoft-365-Messaging-environment.png",
+      "height": 1189
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-Azure-Fundamentals-Describe-Azure-management-and-governance.png",
+      "height": 1189
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-Microsoft-Azure-Fundamentals-Describe-cloud-concepts.png",
+      "height": 1189
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-Microsoft-Security-Compliance-and-Identity-Fundamentals-Describe-the-capabilities-of-Microsoft-compliance-solutions.png",
+      "height": 1189
+    },
+    {
+      "width": 1584,
+      "src": "./photos/Microsoft/Microsoft-SC-900.png",
+      "height": 1224
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-Microsoft-Security-Compliance-and-Identity-Fundamentals-Describe-the-capabilities-of-Microsoft-Identity-and-access-management-solutions.png",
+      "height": 1189
+    },
+    {
+      "width": 1683,
+      "src": "./photos/Microsoft/Microsoft-SC-200-Mitigate-threats-using-Microsoft-365-Defender.png",
+      "height": 1189
+    }
+  ],
+  "CodeLearn": [
+    {
+      "width": 2000,
+      "src": "./photos/CodeLearn/CodeLearn-python-fundamentals.png",
+      "height": 1428
+    },
+    {
+      "width": 2000,
+      "src": "./photos/CodeLearn/CodeLearn-Cpp-for-beginners.png",
+      "height": 1428
+    },
+    {
+      "width": 2000,
+      "src": "./photos/CodeLearn/CodeLearn-computer-software.png",
+      "height": 1428
+    },
+    {
+      "width": 2000,
+      "src": "./photos/CodeLearn/CodeLearn-Java-fundamentals.png",
+      "height": 1428
+    },
+    {
+      "width": 2000,
+      "src": "./photos/CodeLearn/CodeLearn-Cloud-Essentials.png",
+      "height": 1428
+    },
+    {
+      "width": 2000,
+      "src": "./photos/CodeLearn/CodeLearn-Object-Oriented-Programming-in-Java.png",
+      "height": 1428
+    },
+    {
+      "width": 2000,
+      "src": "./photos/CodeLearn/CodeLearn-computer-hardware.png",
+      "height": 1428
+    },
+    {
+      "width": 2000,
+      "src": "./photos/CodeLearn/CodeLearn-JavaScript-basics.png",
+      "height": 1428
+    },
+    {
+      "width": 2000,
+      "src": "./photos/CodeLearn/CodeLearn-Computer-Communication-Network.png",
+      "height": 1428
+    },
+    {
+      "width": 2000,
+      "src": "./photos/CodeLearn/CodeLearn-Introdution-to-SQL.png",
+      "height": 1428
+    },
+    {
+      "width": 2000,
+      "src": "./photos/CodeLearn/CodeLearn-data-structure-and-algorithms.png",
+      "height": 1428
+    },
+    {
+      "width": 2000,
+      "src": "./photos/CodeLearn/CodeLearn-Object-Oriented-Programming-in-C++.png",
+      "height": 1428
+    },
+    {
+      "width": 2000,
+      "src": "./photos/CodeLearn/CodeLearn-C-for-beginners.png",
+      "height": 1428
+    },
+    {
+      "width": 2000,
+      "src": "./photos/CodeLearn/CodeLearn-advance-cpp.png",
+      "height": 1428
+    }
+  ],
+  "TryHackMe": [
+    {
+      "width": 1020,
+      "src": "./photos/TryHackMe/THM-Advent-of-Cyber-2021.png",
+      "height": 620
+    },
+    {
+      "width": 1020,
+      "src": "./photos/TryHackMe/THM-Advent-of-Cyber-2022.png",
+      "height": 620
+    }
+  ],
+  "Google Digital Academy Skillshop": [
+    {
+      "width": 1653,
+      "src": "./photos/Google Digital Academy Skillshop/YouTube Music Rights Management.png",
+      "height": 2339
+    },
+    {
+      "width": 2554,
+      "src": "./photos/Google Digital Academy Skillshop/Google-Ads-Display.png",
+      "height": 3602
+    }
+  ],
+  "SamSung": [
+    {
+      "width": 1654,
+      "src": "./photos/SamSung/samsung-designing-future-where-learning-is-lifestyle_1.png",
+      "height": 2339
+    },
+    {
+      "width": 1654,
+      "src": "./photos/SamSung/samsung-designing-future-where-learning-is-lifestyle_2.png",
+      "height": 2339
+    },
+    {
+      "width": 1654,
+      "src": "./photos/SamSung/samsung-designing-for-a-diverse-and-inclusive-future_1.png",
+      "height": 2339
+    },
+    {
+      "width": 1654,
+      "src": "./photos/SamSung/samsung-designing-for-a-diverse-and-inclusive-future_2.png",
+      "height": 2339
+    }
+  ],
+  "F8": [
+    {
+      "width": 938,
+      "src": "./photos/F8/Responsive-Web-Design.png",
+      "height": 677
+    },
+    {
+      "width": 934,
+      "src": "./photos/F8/JavaScript-Basic.png",
+      "height": 672
+    },
+    {
+      "width": 938,
+      "src": "./photos/F8/HTML&CSS.png",
+      "height": 675
+    },
+    {
+      "width": 2000,
+      "src": "./photos/F8/F8-Information-Technology-Onboarding.png",
+      "height": 1439
+    },
+    {
+      "width": 2000,
+      "src": "./photos/F8/F8-JavaScript-Basic.png",
+      "height": 1439
+    },
+    {
+      "width": 937,
+      "src": "./photos/F8/Information-Technology-Onboarding.png",
+      "height": 674
+    },
+    {
+      "width": 2000,
+      "src": "./photos/F8/F8-Responsive-Web-Designe.png",
+      "height": 1439
+    },
+    {
+      "width": 2000,
+      "src": "./photos/F8/F8-HTML&CSS.png",
+      "height": 1439
+    }
+  ],
+  "Google Digital Garange": [
+    {
+      "width": 3508,
+      "src": "./photos/Google Digital Garange/GoogleDigitalGarage-fudamentals-of-digital-marketing.png",
+      "height": 2481
+    }
+  ],
+  "Udemy": [
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Microsoft-Excel-Basic-Excel-Advanced-Excel-Formulas.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Create-a-business-PowerPoint-presentation-from-scratch.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-NFT-for-Dummies.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-HVAC-Ductwork-Quantity-Take-off-for-Quantity-Surveyors.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Passive-Income-27-Ways-to-Earn-Passive-Income-Online.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Make-Money-Online-Mindset-Training-Real-Life-Examples.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-First-Steps-Into-Selling-Smarter.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Microsoft-Outlook.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/Udemy-Practical-Cisco-Networking-Labs-in-Cisco-Packet-Tracer.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Animate-a-business-presentation-in-PowerPoint-from-scratch.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Your-own-podcast-live-in-24 hours.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Proven-Travel-Hacks-for-Southeast-Asia.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-The-Complete-Facebook-Traffic-Ads-Facebook-CPC-Course-2022.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Complete-Guide-to-Pinterest-Growth-2021.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Free-WordPress-Deployment-Online-2021.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Career-Coaching-Summary-TOP-5-Secret-of-Effcient-Sessions.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-A-complete-manual-for-the-faceless-YouTube-channel.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/Udemy-Der-Komplette-Excel-Kurs-Vom-Anf\u00e4nger-zum-Profi-in-50h.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Project-Finance-Fundamentals-Infrastructure-Energy.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Utreon-Masterclass-Ultimate-Guide-to-YouTube-Alternative.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Citizen-Training-and-Children-Rights.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-the-complete-Excel-course-from-beginner-to-professional-in-40h.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/Udemy-Learn-HTML-For-Beginners.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-How-to-Become-a-Facilitator-7-Effective-Skills-Summary.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Learn-how-to-use-Zapier-to-automate-your-Business.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Most-Essentia-Popular-Excel-Formulas-And-Functions.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/Udemy-Haskell-for-Beginners-programming-language.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-YouTube-optimizatio-more-clicks-shares-and-subscribers.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/Udemy-2-corinthians-13-life-changing-lessons.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Copywriting-3-Crucial-Points-For-Your-textt-To-Sell-Itself.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Build-your-business-with-online-marketing-without-prior-knowledge.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/Udemy-The-Complete-Facebook-Traffic-Ads-(Facebook CPC)-Course-2023.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/Udemy-C#-Programla-a-Dili-Temel-Orta-\u0130leri-Seviye.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Master-the-English-Irregular-Verbs-Once-and-For-All.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Color-Correction-in-Adobe-Premiere-Pro.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/Udemy-Design-Thinking-Design-Sprint-Start-a-business-in-days.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/Udemy-Mit-Online-Marketing-Dein-Business-aufbauen-ohne-Vorwissen!.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Tubebuddy-Masterclass-Guide-to-YouTube-Keyword-Tool.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/Udemy-Complete-Payroll-Management-in-Excel.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Learn-6-SIMPLE-Steps-to-Make-Money-on-TikTok-App.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/Udemy-Microsoft-Outlook-Ultimate-Guide.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-How-to-Become-a-Paid-Influencer.jpg",
+      "height": 1190
+    },
+    {
+      "width": 1600,
+      "src": "./photos/Udemy/udemy-Bible-Philippians-7-Lessons-We-Can-Learn-For-Today.jpg",
+      "height": 1190
+    }
+  ],
+  "Capital Volunteer Club": [
+    {
+      "width": 960,
+      "src": "./photos/Capital Volunteer Club/Em-yeu-HN.jpg",
+      "height": 1280
+    },
+    {
+      "width": 2622,
+      "src": "./photos/Capital Volunteer Club/Nguyen Duc Chung.jpg",
+      "height": 3709
+    },
+    {
+      "width": 1655,
+      "src": "./photos/Capital Volunteer Club/Tuyen-duong-thu-khoa.png",
+      "height": 2340
+    },
+    {
+      "width": 868,
+      "src": "./photos/Capital Volunteer Club/Bocales.jpg",
+      "height": 1236
+    },
+    {
+      "width": 946,
+      "src": "./photos/Capital Volunteer Club/Tiep-suc-mua-thi-2022.jpg",
+      "height": 694
+    },
+    {
+      "width": 1655,
+      "src": "./photos/Capital Volunteer Club/Honda-thank-day.png",
+      "height": 2340
+    }
+  ],
+  "BKACAD": [
+    {
+      "width": 1137,
+      "src": "./photos/BKACAD/BKACAD-top-1-QTM-2021-2022.jpg",
+      "height": 855
+    }
+  ],
+  "Fortinet": [
+    {
+      "width": 2339,
+      "src": "./photos/Fortinet/Fortinet-NSE-2-1.png",
+      "height": 1701
+    },
+    {
+      "width": 2339,
+      "src": "./photos/Fortinet/Fortinet-NSE-1-1.png",
+      "height": 1701
+    },
+    {
+      "width": 1058,
+      "src": "./photos/Fortinet/Fortinet-NSE-1-verified.png",
+      "height": 539
+    },
+    {
+      "width": 1065,
+      "src": "./photos/Fortinet/Fortinet-NSE-2-verified.png",
+      "height": 536
+    },
+    {
+      "width": 2339,
+      "src": "./photos/Fortinet/Fortinet-The-Evolution-of-Cybersecurity-1.png",
+      "height": 1701
+    },
+    {
+      "width": 2339,
+      "src": "./photos/Fortinet/Fortinet-Information-Security-Awareness-1.png",
+      "height": 1701
+    }
+  ],
+  "EF SET": [
+    {
+      "width": 2886,
+      "src": "./photos/EF SET/EFSET-B2-Upper-Intermediate.png",
+      "height": 4081
+    },
+    {
+      "width": 1366,
+      "src": "./photos/EF SET/EFSET-C1-verify.png",
+      "height": 1018
+    },
+    {
+      "width": 1190,
+      "src": "./photos/EF SET/EFSET-B1-Intermediate.png",
+      "height": 1683
+    },
+    {
+      "width": 1365,
+      "src": "./photos/EF SET/EFSET-B1-verify.png",
+      "height": 1032
+    },
+    {
+      "width": 2886,
+      "src": "./photos/EF SET/EFSET-C1-Advanced.png",
+      "height": 4081
+    }
+  ]
+}
